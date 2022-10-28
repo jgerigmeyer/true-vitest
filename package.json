@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "sass": "^1.55.0",
+    "sass-true": "^7.0.0-beta.0",
+    "vitest": "^0.24.3"
+  }
+}
